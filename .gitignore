@@ -1,10 +1,13 @@
+# Python
+__pycache__/
+venv/
+
 # MLflow
 mlruns/
 mlflow.db
 
-# Screenshots
-screenshots/
+# OS
+.DS_Store
 
-# Python
-__pycache__/
-venv/
+# Screenshots (report only)
+screenshots/
