@@ -1,0 +1,13 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+venv/
+
+# MLflow
+mlruns/
+
+# Jupyter
+.ipynb_checkpoints/
