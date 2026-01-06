@@ -1,13 +1,10 @@
-# macOS
-.DS_Store
+# MLflow
+mlruns/
+mlflow.db
+
+# Screenshots
+screenshots/
 
 # Python
 __pycache__/
-*.pyc
 venv/
-
-# MLflow
-mlruns/
-
-# Jupyter
-.ipynb_checkpoints/
